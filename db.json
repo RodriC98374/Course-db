@@ -7,25 +7,25 @@
             "images":"https://cdn.pixabay.com/photo/2020/07/03/06/12/people-5365324__340.jpg",
             "views":"726"
         }, {
-            "id":"1",
+            "id":"2",
             "name":"Taller_De_Sistemas_Operativos",
             "course":"",
             "images":"https://cdn.pixabay.com/photo/2019/10/26/06/02/bokeh-4578758__340.jpg",
             "views":"963"
         }, {
-            "id":"1",
+            "id":"3",
             "name":"Sistemas_De_Informatica",
             "course":"TSO",
             "images":"https://cdn.pixabay.com/photo/2020/07/18/13/01/blueberry-5417154__340.jpg",
             "views":"264"
         }, {
-            "id":"1",
+            "id":"4",
             "name":"Calculo_I",
             "course":"CAL1",
             "images":"https://cdn.pixabay.com/photo/2020/07/28/13/49/ostrich-5445127__340.jpg",
             "views":"843"
         },{
-            "id":"1",
+            "id":"5",
             "name":"Algebra_II",
             "course":"ALG2",
             "images":"https://cdn.pixabay.com/photo/2019/12/08/18/28/asparagus-4681835__340.jpg",
