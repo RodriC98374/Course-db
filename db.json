@@ -2,34 +2,125 @@
     "courses": [
         {
             "id":"1",
-            "name":"Base_de_Datos",
-            "course":"BDI",
-            "images":"https://cdn.pixabay.com/photo/2020/07/03/06/12/people-5365324__340.jpg",
-            "views":"726"
+            "name":"Calculo I",
+            "course":"CAL1",
+            "images":"https://cdn.pixabay.com/photo/2014/07/06/13/55/calculator-385506_1280.jpg",
+            "views":"360"
         }, {
             "id":"2",
-            "name":"Taller_De_Sistemas_Operativos",
-            "course":"",
-            "images":"https://cdn.pixabay.com/photo/2019/10/26/06/02/bokeh-4578758__340.jpg",
+            "name":"Taller de Sistemas Operativos",
+            "course":"TSO",
+            "images":"https://training.arai.center/wp-content/uploads/2018/04/CSisOp.png",
             "views":"963"
         }, {
             "id":"3",
-            "name":"Sistemas_De_Informatica",
-            "course":"TSO",
+            "name":"Sistemas de Informacion I",
+            "course":"SIS",
             "images":"https://cdn.pixabay.com/photo/2020/07/18/13/01/blueberry-5417154__340.jpg",
             "views":"264"
         }, {
             "id":"4",
-            "name":"Calculo_I",
+            "name":"Ingles I",
             "course":"CAL1",
-            "images":"https://cdn.pixabay.com/photo/2020/07/28/13/49/ostrich-5445127__340.jpg",
+            "images":"https://images.pexels.com/photos/159581/dictionary-reference-book-learning-meaning-159581.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
             "views":"843"
         },{
             "id":"5",
             "name":"Algebra_II",
             "course":"ALG2",
-            "images":"https://cdn.pixabay.com/photo/2019/12/08/18/28/asparagus-4681835__340.jpg",
+            "images":"https://www.istockphoto.com/photo/math-problems-gm470493341-34643552?utm_campaign=srp_photos_limitedresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fes-es%2Fbuscar%2FALGEBRA%2F&utm_medium=affiliate&utm_source=pexels&utm_term=algebra",
             "views":"348"
+        }, {
+            "id":"6",
+            "name":"Fisica General",
+            "course":"FSG",
+            "images":"https://cdn.pixabay.com/photo/2017/07/20/03/53/homework-2521144__340.jpg",
+            "views":"10"
+        }, {
+            "id":"7",
+            "name":"Calculo II",
+            "course":"CAL2",
+            "images":"https://cdn.pixabay.com/photo/2014/10/01/14/07/tax-468440__340.jpg",
+            "views":"137"
+        }, {
+            "id":"8",
+            "name":"Matematicas Discretas",
+            "course":"MTD",
+            "images":"https://cdn.pixabay.com/photo/2015/05/10/21/28/accounting-761599__340.jpg",
+            "views":"937"
+        }, {
+            "id":"9",
+            "name":"Metodologia de la investigacion",
+            "course":"MITC",
+            "images":"https://cdn.pixabay.com/photo/2016/02/16/21/07/books-1204029__340.jpg",
+            "views":"17"
+        }, {
+            "id":"10",
+            "name":"Algebra I",
+            "course":"ALG1",
+            "images":"https://cdn.pixabay.com/photo/2019/02/10/08/49/math-3986758__340.jpg",
+            "views":"796"
+        }, {
+            "id":"11",
+            "name":"Elementos de la programacion",
+            "course":"EPED",
+            "images":"https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198__340.jpg",
+            "views":"171"
+        }, {
+            "id":"12",
+            "name":"Arquitectura de las computadoras I",
+            "course":"ARC",
+            "images":"https://cdn.pixabay.com/photo/2014/08/26/21/27/service-428538__340.jpg",
+            "views":"17"
+        }, {
+            "id":"13",
+            "name":"Ecuaciones Diferenciales",
+            "course":"ED",
+            "images":"https://cdn.pixabay.com/photo/2015/01/09/11/23/formula-594149__340.jpg",
+            "views":"76"
+        }, {
+            "id":"14",
+            "name":"Estadistica I",
+            "course":"EST1",
+            "images":"https://cdn.pixabay.com/photo/2016/06/03/13/57/digital-marketing-1433427__340.jpg",
+            "views":"871"
+        }, {
+            "id":"15",
+            "name":"Calculo Numerico",
+            "course":"CALN",
+            "images":"https://cdn.pixabay.com/photo/2015/11/15/09/27/calculator-1044173__340.jpg",
+            "views":"397"
+        }, {
+            "id":"16",
+            "name":"Base de Datos I",
+            "course":"BD",
+            "images":"https://www.ymant.com/blog/wp-content/uploads/2017/02/Base-de-Datos-YMANT.jpg",
+            "views":"167"
+        }, {
+            "id":"17",
+            "name":"Circuitos Electronicos",
+            "course":"CRE",
+            "images":"https://cdn.pixabay.com/photo/2014/12/28/02/23/mother-board-581597__340.jpg",
+            "views":"378"
+        }, {
+            "id":"18",
+            "name":"Contabilidad Basica",
+            "course":"CONT",
+            "images":"https://cdn.pixabay.com/photo/2015/08/01/21/03/euro-870757__340.jpg",
+            "views":"718"
+        }, {
+            "id":"19",
+            "name":"Investigacion Operativa I",
+            "course":"IO1",
+            "images":"https://cdn.pixabay.com/photo/2015/01/09/11/30/chart-594212__340.jpg",
+            "views":"827"
+        }, {
+            "id":"20",
+            "name":"Ingenieria de Software",
+            "course":"IDS",
+            "images":"https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536__340.jpg",
+            "views":"176"
         }
+
     ]
 }
